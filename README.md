@@ -2,8 +2,6 @@
 
 A comprehensive interactive learning roadmap application for aspiring fullstack developers. This application helps track progress through a structured 3-month learning path covering frontend, backend, and fullstack development concepts.
 
-![FullStack Roadmap](https://placehold.co/600x400?text=FullStack+Roadmap)
-
 ## Features
 
 - **Learning Roadmap**: Week-by-week curriculum with detailed resources, checklists, and project requirements
